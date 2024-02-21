@@ -19,9 +19,10 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/umar-ayaz-2b0bbb262/">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn icon">
-
+</a>
+ <a href="https://www.linkedin.com/in/umar-ayaz-2b0bbb262/">
+<img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork icon">
 </a>
 </div>
 
