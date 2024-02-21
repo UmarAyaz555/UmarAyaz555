@@ -1,8 +1,8 @@
  <h1 align="center">Hi 👋, I'm Umar Ayaz</h1>
 
 - 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
+- 🌱 I’m currently learning Advanced Flutter
+- 💬 Ask me anything about Flutter, Firebase, RestApi's, AppStore 
 - 📫 How to reach me: ayazumar401@gmail.com
 - ⚡ Fun fact: I'm comming to teen
   
@@ -27,9 +27,9 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,firebase,github,git,postman,figma,androidstudio,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,firebase,github,git,postman,figma,androidstudio,githubactions,postgres,stackoverflow,xd&perline=5)](https://skillicons.dev)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UmarAyaz555&show_icons=true&locale=en" alt="UmarAyaz555" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UmarAyaz555&show_icons=true&locale=en&theme=dark" alt="UmarAyaz555" /></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmarAyaz555&theme=dark)
 
