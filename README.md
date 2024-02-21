@@ -29,7 +29,7 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,firebase,github,git,postman,figma,androidstudio,xd&perline=5)](https://skillicons.dev)
 
-![Umar Ayaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmarAyaz555&show_icons=true&theme=dark)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UmarAyaz555&show_icons=true&locale=en" alt="UmarAyaz555" /></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmarAyaz555&theme=dark)
 
