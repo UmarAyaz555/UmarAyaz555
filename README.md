@@ -18,6 +18,11 @@
    <a href="https://www.facebook.com/omar.ayaz.39">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/umar-ayaz-2b0bbb262/">
+
+<img src="path/to/linkedin-icon.png" alt="LinkedIn icon">
+
+</a>
 </div>
 
 ### Languages and Tools:
